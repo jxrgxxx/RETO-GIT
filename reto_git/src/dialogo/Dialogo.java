@@ -3,8 +3,7 @@ package dialogo;
 public class Dialogo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.print("- Erase una vez");
+		System.out.print("- Fin");
 	}
-
 }
